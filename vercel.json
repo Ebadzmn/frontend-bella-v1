@@ -1,0 +1,14 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ],
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "installCommand": "npm install --include=dev",
+  "framework": "vite",
+  "regions": ["iad1"],
+  "ignoreCommand": "git diff --quiet HEAD^ HEAD ./"
+}

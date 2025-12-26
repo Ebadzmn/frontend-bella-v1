@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "209839715174",
+    "project_id": "bella-7d169",
+    "storage_bucket": "bella-7d169.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209839715174:android:8cf5dc3180d3a677758ea7",
+        "android_client_info": {
+          "package_name": "com.bella.carwash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4U0k9Gh92wps8bFWBfgw5ILj-0BlDF9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
